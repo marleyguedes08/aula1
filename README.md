@@ -78,11 +78,11 @@ Por Marley Guedes Teixeira.<br><br>
 
 
 ## 9º Publicação no GitHub:  
-### ° Criando um repositório.  
+### ° Criando um repositório.    
 **R**: Primeiro acesse o GitHub: Visite github.com e faça login na sua conta. Segundo clique no ícone de "+" no canto superior direito e selecione "New repository". Terceiro preencha as informações necessárias. E por ultimo clique no botão "Create repository".
-### ° Enviando o arquivo Markdown.  
+### ° Enviando o arquivo Markdown.    
 **R**: Vá até a página do seu repositório recém-criado no GitHub. Copie a URL do repositório (geralmente disponível em um botão verde "Code" ou "Código"). No terminal ou prompt de comando, use o comando git clone <URL-do-repositório> para clonar o repositório para sua máquina. 
-### ° Visualizando o documento diretamente no GitHub.  
+### ° Visualizando o documento diretamente no GitHub.    
 **R**: Acesse o GitHub e navegue até o repositório onde você enviou o arquivo. Na página principal do repositório, localize o arquivo Markdown que você deseja visualizar (geralmente terá a extensão .md). Clique no nome do arquivo para abri-lo.  <br><br>
 
 
